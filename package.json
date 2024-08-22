@@ -21,7 +21,7 @@
   "dependencies": {
     "@upstash/vector": "^1.0.7",
     "csv-parser": "^3.0.0",
-    "hono": "^4.2.7",
+    "hono": "^4.5.8",
     "langchain": "^0.1.35"
   }
 }
